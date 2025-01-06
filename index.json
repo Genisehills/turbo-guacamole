@@ -1,0 +1,17 @@
+{
+  "arch": "x86_64",
+  "build": "h59b6b97_2",
+  "build_number": 2,
+  "depends": [
+    "libboost 1.82.0 h3399ecb_2",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "license": "BSL-1.0",
+  "license_family": "OTHER",
+  "name": "boost-cpp",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1696764270626,
+  "version": "1.82.0"
+}
